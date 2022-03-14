@@ -1,0 +1,47 @@
+.header {
+  padding: 30px;
+  text-align: center;
+  background:rgba(29, 60, 69, 1);
+}
+.body {
+  padding: 30px;
+  
+  background: rgba(255, 241, 225, 1);
+}
+
+
+h2{
+  color:rgba(210, 96, 26, 1)
+}
+
+
+  
+
+  .borderB{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+
+    h1{ color:rgba(210, 96, 26, 1)
+      }
+
+    
+    
+    h2{
+      background-color: rgba(29, 60, 69, 1);
+    }
+    
+  
+
+    p{
+      color :rgba(29, 60, 69, 1)
+    }
+    li{color :rgba(29, 60, 69, 1)
+    }
+
+    .topnav{color:rgba(255, 241, 225, 1)}
+
+    
