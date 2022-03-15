@@ -1,12 +1,12 @@
 .header {
   padding: 30px;
   text-align: center;
-  background:rgba(29, 60, 69, 1);
+  background:rgb(255, 241, 225, 1);
 }
 .body {
   padding: 30px;
   
-  background: rgba(255, 241, 225, 1);
+  background: rgb(0, 0, 0);
 }
 
 
@@ -27,6 +27,9 @@ h2{
 
     h1{ color:rgba(210, 96, 26, 1)
       }
+      h1 { text-align: center }
+      h2 { text-align: center }
+      p { text-align: center }
 
     
     
@@ -37,11 +40,17 @@ h2{
   
 
     p{
-      color :rgba(29, 60, 69, 1)
+      color :rgba(255, 241, 225, 1)
     }
-    li{color :rgba(29, 60, 69, 1)
+    li{color :rgba(255, 241, 225, 1)
     }
 
-    .topnav{color:rgba(255, 241, 225, 1)}
+    .topnav{color:rgba(255, 241, 225, 1)
+    }
 
+    .liste {float: left;
+    }
+    .liste3 {float: right;
+    }
+   
     
